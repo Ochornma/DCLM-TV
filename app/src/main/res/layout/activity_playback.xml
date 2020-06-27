@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+        <com.google.android.exoplayer2.ui.PlayerView
+            android:id="@+id/playerView"
+            android:layout_width="match_parent"
+            app:use_artwork="true"
+            app:default_artwork="@drawable/radio_banner"
+            android:layout_height="match_parent"
+            android:layout_gravity="center" />
+
+
+        <fragment
+            android:id="@+id/playback_controls_fragment"
+            android:name="org.dclm.live.playback.PlaybackFragment"
+            class="org.dclm.live.playback.PlaybackFragment"
+            android:tag="promise"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </merge>
+
+

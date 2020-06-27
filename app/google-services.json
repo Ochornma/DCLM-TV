@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "362658606336",
+    "firebase_url": "https://dclm-radio.firebaseio.com",
+    "project_id": "dclm-radio",
+    "storage_bucket": "dclm-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362658606336:android:d811020575de40fbb417e5",
+        "android_client_info": {
+          "package_name": "org.dclm.dclmappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362658606336-umlr88fl3fbeqle2p7p8oq4b0sdokd3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrZFQNbbf8CYARPo0sRWwta633DeBdAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362658606336-9vdbibdboeejcs62qfb6t1qqpvvgo2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362658606336-sp94f333p11o6hr6asd5a71g5sr40ktr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.dclm.live"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362658606336:android:e78897a57563a1aeb417e5",
+        "android_client_info": {
+          "package_name": "org.dclm.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362658606336-qqb9m6ugk2bjir3q2vloddvqeaj1ai47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.dclm.live",
+            "certificate_hash": "9e9a61263ca4ee20783e798dcb686f154b09e080"
+          }
+        },
+        {
+          "client_id": "362658606336-dgos2b4rp9u593itnutl4869glgabuba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.dclm.live",
+            "certificate_hash": "2e0985ed8863285947fcb7cd807f185320624b7c"
+          }
+        },
+        {
+          "client_id": "362658606336-umlr88fl3fbeqle2p7p8oq4b0sdokd3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrZFQNbbf8CYARPo0sRWwta633DeBdAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362658606336-9vdbibdboeejcs62qfb6t1qqpvvgo2o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362658606336-sp94f333p11o6hr6asd5a71g5sr40ktr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.dclm.live"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
