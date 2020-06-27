@@ -3,6 +3,9 @@ This project was carried out for Deeper Christian Life Ministry. It is an Androi
 <p>In developing this application, I used</p>
 <p><b>Exoplayer library for the player</b></p>
 
+You can find the work on app store https://play.google.com/store/apps/details?id=org.dclm.live
+
+and on Amazon store https://www.amazon.com/gp/product/B08BPJN91G
 
 You can use the code, but you ned to add the apis, and streaming links before you can use.
 
@@ -12,10 +15,6 @@ You can use the code, but you ned to add the apis, and streaming links before yo
 ![Screenshot_1592852570](https://user-images.githubusercontent.com/50696559/85922179-2d5f5f00-b879-11ea-95e1-52f2231d0eb1.png)
 ![Screenshot_1592852431](https://user-images.githubusercontent.com/50696559/85922180-2f292280-b879-11ea-8121-4074490cf055.png)
 
-
-You can find the work on app store https://play.google.com/store/apps/details?id=org.dclm.live
-
-and on Amazon store https://www.amazon.com/gp/product/B08BPJN91G
 
 MIT License
 
